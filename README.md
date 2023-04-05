@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##This is my first repository, i had no idea about **mark down**, but i think is cool (?)
+
+# 🌱 I'm currently learning GIT/GITHUB and Python for developments task on Odoo. 
 <!--
 **Nicolaslaslass/Nicolaslaslass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
