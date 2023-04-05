@@ -2,7 +2,7 @@
 ## This is my first repository, i had no idea about *markdown* , but i think is cool (?)
  - 🌱 I'm currently learning GIT/GITHUB and Python for developments task on Odoo. 
  - 🔭 I’m currently working at M2MDATAGLOBAL, as Managment Control Coordinator
- - 📫 How to reach me: contacto.laslas@gmail.com
+ - 📫 How to reach me: nicolas.vergara.e@gmail.com
  - 💬 Got some knowledge on HTML/CSS and GitBash
 <!--
 **Nicolaslaslass/Nicolaslaslass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
