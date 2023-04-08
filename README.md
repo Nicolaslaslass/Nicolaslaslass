@@ -4,6 +4,12 @@
  - 🔭 I’m currently working at M2MDATAGLOBAL, as Managment Control Coordinator
  - 📫 How to reach me: nicolas.vergara.e@gmail.com
  - 💬 Got some knowledge on HTML/CSS and GitBash
+ 
+# Where I'm getting my knowledge?
+ - /mouredev
+ - https://docs.python.org/3/
+ - https://www.w3schools.com/python/default.asp
+ - https://www.codedex.io/ /the must fun
 <!--
 **Nicolaslaslass/Nicolaslaslass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
