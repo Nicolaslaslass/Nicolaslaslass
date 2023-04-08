@@ -5,7 +5,7 @@
  - 📫 How to reach me: nicolas.vergara.e@gmail.com
  - 💬 Got some knowledge on HTML/CSS and GitBash
  
-# Where I'm getting my knowledge?
+# Where am I getting my knowledge?
  - /mouredev
  - https://docs.python.org/3/
  - https://www.w3schools.com/python/default.asp
