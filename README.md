@@ -1,6 +1,7 @@
 # Hi there 👋 Welcome to ✨ NMRVE's /dev World ✨
 ## This is my first repository, i had no idea about *markdown* , but i think is cool (?)
- - 🌱 I'm currently learning GIT/GITHUB and Python for developments task in Odoo. 
+ - 🌱 I'm currently learning GIT/GITHUB and Python for developments task in Odoo.
+ - _^[^aeiou]|[^aeiou]$_ -> with this REGEX you could match the words that either do not start with vowels or do not end with vowels.
  - 🔭 I’m currently working at M2MDATAGLOBAL, as Managment Control Coordinator
  - 📫 How to reach me: nicolas.vergara.e@gmail.com
  - 💬 Got some knowledge on HTML/CSS and GitBash
@@ -11,6 +12,8 @@
  - https://www.w3schools.com/python/default.asp
  - https://www.codedex.io/ /the must fun
  - Diplomado en python y ciencia de datos
+
+   
 <!--
 **Nicolaslaslass/Nicolaslaslass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
