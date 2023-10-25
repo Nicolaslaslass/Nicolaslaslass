@@ -1,10 +1,10 @@
 # Hi there 👋 Welcome to ✨ NMRVE's /dev World ✨
 ## This is my first repository, i had no idea about *markdown* , but i think is cool (?)
- - 🌱 I'm currently learning GIT/GITHUB and Python for developments task in Odoo.
+ - 🌱 Python, SQL, REGEX, API, JSON, XML
  - _^[^aeiou]|[^aeiou]$_ -> with this REGEX you could match the words that either do not start with vowels or do not end with vowels.
  - 🔭 I’m currently working at M2MDATAGLOBAL, as Managment Control Coordinator
  - 📫 How to reach me: nicolas.vergara.e@gmail.com
- - 💬 Got some knowledge on HTML/CSS and GitBash
+ - 💬 Got some knowledge on html/css, but that's for designers.
  
 # Where am I getting my knowledge?
  - /mouredev
