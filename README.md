@@ -1,7 +1,8 @@
 # Hi there 👋 Welcome to ✨ NMRVE's /dev World ✨
-## This is my first repository, i had no idea about *markdown* , but i think is cool (?)
- - 🌱 Python, SQL, REGEX, API, JSON, XML
- - _^[^aeiou]|[^aeiou]$_ -> with this REGEX you could match the words that either do not start with vowels or do not end with vowels.
+## Based in 🇨🇱. What do i do?:
+ - 🌱 Python, SQL, REGEX, API, JSON, XML.
+ - 🎓 Bussiness administration.
+ - 🖥️ Excel, Data analysis.
  - 🔭 I’m currently working at M2MDATAGLOBAL, as Managment Control Coordinator
  - 📫 How to reach me: nicolas.vergara.e@gmail.com
  - 💬 Got some knowledge on html/css, but that's for designers.
@@ -10,8 +11,10 @@
  - /mouredev
  - https://docs.python.org/3/
  - https://www.w3schools.com/python/default.asp
+ - https://www.hackerrank.com
  - https://www.codedex.io/ /the must fun
- - Diplomado en python y ciencia de datos
+ - Python & Data Science Diplima - UC 🇨🇱
+ - _^[^aeiou]|[^aeiou]$_ -> with this REGEX you could match the words that either do not start with vowels or do not end with vowels. This was my first Regex. https://www.rexegg.com/
 
    
 <!--
