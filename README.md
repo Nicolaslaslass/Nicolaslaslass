@@ -3,7 +3,7 @@
  - 🌱 Python, SQL, REGEX, API, JSON, XML.
  - 🎓 Bussiness administration.
  - 🖥️ Data Science
- - 🔭 I’m currently working at M2MDATAGLOBAL, as Managment Control Coordinator
+ - 🔭 I’m currently working at M2MDATAGLOBAL, as Control Managment Director
  - 📫 How to reach me: nicolas.vergara.e@gmail.com
  - 💬 Got some knowledge on html/css, but that's for designers.
  
