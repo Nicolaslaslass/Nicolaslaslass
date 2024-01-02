@@ -2,7 +2,7 @@
 ## Based in 🇨🇱. What do i do?:
  - 🌱 Python, SQL, REGEX, API, JSON, XML.
  - 🎓 Bussiness administration.
- - 🖥️ Excel, Data analysis.
+ - 🖥️ Data Science
  - 🔭 I’m currently working at M2MDATAGLOBAL, as Managment Control Coordinator
  - 📫 How to reach me: nicolas.vergara.e@gmail.com
  - 💬 Got some knowledge on html/css, but that's for designers.
